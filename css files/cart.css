@@ -57,9 +57,7 @@ img {
   margin-top: 35px;
   display: flex;
 }
-#products {
-  /* border: 1px solid red; */
-}
+
 #products input {
   width: 150px;
   background-color: black;
