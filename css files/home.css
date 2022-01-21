@@ -72,6 +72,7 @@ img {
 #product_names {
   margin-left: 70px;
   margin-top: 10px;
+  /* border: 1px solid red; */
 }
 .products_heading {
   padding-right: 40px;
@@ -81,6 +82,13 @@ img {
   letter-spacing: 2px;
   /* border: 1px solid turquoise; */
   height: 7px;
+}
+.products_heading span a{
+  color: white;
+}
+.products_heading:hover {
+  text-decoration: underline;
+  color: white;
 }
 #email_signup.hover_div {
   height: 400px;

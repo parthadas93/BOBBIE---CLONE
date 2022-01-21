@@ -34,13 +34,13 @@ function navbar() {
         <input type="text"  placeholder=" SEARCH">
 
         <div id="product_names">
-          <span class="products_heading">NEW</span>
-          <span class="products_heading">BESTSELLER</span>
-          <span class="products_heading">FACE</span>
-          <span class="products_heading">MAKEUP</span>
-          <span class="products_heading">SKINCARE</span>
-          <span class="products_heading">VIRTUAL SERVICES</span>
-          <span class="products_heading">DISCOVER</span>
+          <span class="products_heading"><a  class="join href="">NEW</a></span>
+          <span class="products_heading"> <a  class="join href="">BESTSELLER</a></span>
+          <span class="products_heading"> <a  class="join href="">FACE</a></span>
+          <span class="products_heading"> <a  class="join href="">MAKEUP</a></span>
+          <span class="products_heading">  <a  class="join href="">SKINCARE</a></span>
+          <span class="products_heading"> <a  class="join href="">VIRTUAL SERVICES</a></span>
+          <span class="products_heading">  <a  class="join href="">DISCOVER</a></span>
         </div>
 
       </div>

@@ -81,6 +81,13 @@ img {
   /* border: 1px solid turquoise; */
   height: 7px;
 }
+.products_heading span a{
+  color: white;
+}
+.products_heading:hover {
+  text-decoration: underline;
+  color: white;
+}
 #email_signup.hover_div {
   height: 400px;
   width: 300px;

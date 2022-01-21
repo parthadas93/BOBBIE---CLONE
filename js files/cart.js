@@ -64,5 +64,12 @@ cart.forEach((element) => {
 
 
 // var totalamount=cart.reduce(function(acc,cv) {
-//     return acc+Number(cv.price);        
+//     return acc+Number(cv.price);
 //    },0)
+
+var checkout = document.getElementById("checkout")
+checkout.addEventListener("click", checkoutfn)
+
+function checkoutfn() {
+    window.location.href="checkout.html"
+}
