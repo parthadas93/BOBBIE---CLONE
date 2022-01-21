@@ -30,7 +30,7 @@ function loginfn() {
                         }
                 
                         items.push(item)
-                        //console.log(items)
+                        console.log(items)
                         localStorage.setItem("cartitems", JSON.stringify(items))
                     })
                 }
