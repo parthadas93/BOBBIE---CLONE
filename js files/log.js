@@ -88,7 +88,7 @@ async function loginfn(e) {
 
         if (data.error === false) {
             alert("Login Successful")
-            window.location.href = "home.html"
+            window.location.href = "index.html"
         }
     } catch (err) {
         alert(err)
