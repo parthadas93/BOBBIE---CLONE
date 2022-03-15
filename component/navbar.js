@@ -10,7 +10,7 @@ function navbar() {
           </h6>
         </div>
         <div id="name">
-        <a href="home.html"> <img src="/images/1.png" alt=""></a>
+        <a href="index.html"> <img src="/images/1.png" alt=""></a>
          
         </div>
         <div id="login_div">
