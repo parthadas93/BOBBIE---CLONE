@@ -20,54 +20,49 @@
 
 - **Home Page**
 
-![Landing Page](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/practo_home_img.png)
+![Landing Page](https://github.com/parthadas93/BOBBIE---CLONE/blob/main/readme_img/home.png)
 
 ---
-- **Reponsive Home Page**
+<!-- - **Reponsive Home Page**
 
 ![Responsive](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/responsive.png)
 
----
-- **Sign-Up Page**
+--- -->
+- **Sign-Up and Log-in Page**
 
-![Sign Up Page](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/regis_practo.png)
-
----
-- **Sign-In Page**
-
-![Sign In Page](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/login_practo.png)
-
-
----
-- **Video Consultation**
-
-![Video Consultation](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/video_practo.png)
+![Sign Up and Login Page](https://github.com/parthadas93/BOBBIE---CLONE/blob/main/readme_img/login.png)
 
 ---
 
-- **Medicines page**
-![Medicines page](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/medi_practo.png)
+- **Cart Page**
+
+![Cart Page]https://github.com/parthadas93/BOBBIE---CLONE/blob/main/readme_img/cart.png)
 
 ---
 
-- **Labtest**
-
-![Labtest](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/labtest_practo.png)
+- **Adress page**
+![Adress page](https://github.com/parthadas93/BOBBIE---CLONE/blob/main/readme_img/adress.png)
 
 ---
-- **Card Section**
+
+- **Payment**
+
+![Payment Page](https://github.com/parthadas93/BOBBIE---CLONE/blob/main/readme_img/payment.png)
+
+---
+<!-- - **Card Section**
 
 ![Card Section](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/addcard.png)
 
----
+--- -->
 
-- **Contact Page**
+<!-- - **Contact Page**
 
 ![Contact Page](https://github.com/Vaman93/Practo-Clone/blob/main/readme_img/contact.png)
 
----
+--- -->
 
 
 
 ### How To Use 
-Users can log in into practo by clicking the login button and fill in the right credentials, new users can register themself by clicking on the register button and fill a simple form, after successful login user can start book appointments, consultations with doctors.
+Users can log in into Bobbie Brown Website by clicking the login button and fill in the right credentials, new users can register themself by clicking on the Sign-up section and fill a simple form, after successful login user can start viewing products and add to their cart and checkout.
